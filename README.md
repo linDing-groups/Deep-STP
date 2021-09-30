@@ -14,3 +14,10 @@ Comprehensive Assessment and Prediction of Snake Toxin Proteins Using Deep Learn
     keras (tested 2.3.1)
     tensorflow (tested 2.1.0)
     
+## Note
+
+For files with different input sequences, you need to pay attention to the modification of parameters in code.
+
+## Citation:
+
+Soon
