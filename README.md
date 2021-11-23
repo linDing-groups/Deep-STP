@@ -17,7 +17,29 @@ we constructed a novel prediction model of its kind to predict snake toxin prote
     sklearn (tested 0.19.1)
     keras (tested 2.3.1)
     tensorflow (tested 2.1.0)
-    
+
+## create a new repository on the command line
+
+### echo "# Deep-4mCGP" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/linDing-groups/Deep-4mCGP.git
+git push -u origin main
+
+## push an existing repository from the command line
+
+git remote add origin https://github.com/linDing-groups/Deep-4mCGP.git
+git branch -M main
+git push -u origin main
+
+## For Train the Model
+    Train_CNN_Model.py
+
+## Loading the Model
+    Test.py
+     
 ## Note
 
 For files with different input sequences, you need to pay attention to the modification of parameters in code.
