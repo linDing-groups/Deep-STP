@@ -20,17 +20,17 @@ we constructed a novel prediction model of its kind to predict snake toxin prote
 
 ## Create a new repository on the command line
 
-### echo "Deep-4mCGP" >> README.md
+### echo "Deep-STP" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/linDing-groups/Deep-4mCGP.git
+git remote add origin https://github.com/linDing-groups/Deep-STP.git
 git push -u origin main
 
 ## Push an existing repository from the command line
 
-git remote add origin https://github.com/linDing-groups/Deep-4mCGP.git
+git remote add origin https://github.com/linDing-groups/Deep-STP.git
 git branch -M main
 git push -u origin main
 
