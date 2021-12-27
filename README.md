@@ -1,10 +1,4 @@
-# Deep-STP
-Comprehensive Assessment and Prediction of Snake Toxin Proteins Using Deep Learning Method
-# Description
-## Motivation
-Snake venoms are mixtures of toxicological proteins. They play a substantial role in paralyzing and digestion of prey. Snake toxins mainly targets on the blood circulatory systems of the prey, as interruption in blood circulatory system makes the prey capitulate to the venom in a short period of time. In recent times, scientists derived many molecules from snake toxins which are used as a drug for treating hypertension and heart diseases. The research technologies on the basis of biochemistry are expensive, outdated and time consuming. Therefore, it is urgent to develop a computational tool that can accurately identify biomolecular functions in a short time.
-## Results
-we constructed a novel prediction model of its kind to predict snake toxin proteins. Their sequences were encoded by three types of features, namely natural vector, word 2 vector and g-gap di-peptide composition. Then, these features were optimized by using feature selection techniques. A classifier based on CNN was trained on the optimal features. The results of 10-fold cross-validation showed that our anticipated model would classify snake toxin proteins with accuracy of 91.26% and area under the curve of 0.965. On the independent dataset, our anticipated model could produce the accuracy of 90.18% which shows that our model could provide outstanding generalization ability.
+
 
 ## Required Packages
 
